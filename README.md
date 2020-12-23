@@ -1,4 +1,4 @@
-## Projeto criado para emissão de nfs
+## Projeto criado para emissão de nfes
 
-### Ultilizando a libs do Rob Richards
-[click here for see](https://github.com/robrichards/xmlseclibs)
+### Utilizando a lib do Rob Richards
+[click here for see project xmlseclibs](https://github.com/robrichards/xmlseclibs)
