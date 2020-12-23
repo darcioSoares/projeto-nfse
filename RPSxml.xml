@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnviarLoteRpsEnvio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<LoteRps>
+		<NumeroLote>20130325150012</NumeroLote>
+		<Cnpj>81097503000129</Cnpj>
+		<InscricaoMunicipal>1148</InscricaoMunicipal>
+		<QuantidadeRps>1</QuantidadeRps>
+		<ListaRps>
+			<Rps>
+				<InfRps>
+					<IdentificacaoRps>
+						<Numero>020130325150012</Numero>
+						<Serie>13</Serie>
+						<Tipo>1</Tipo>
+					</IdentificacaoRps>
+					<DataEmissao>2013-03-25T10:10:00</DataEmissao>
+					<NaturezaOperacao>1</NaturezaOperacao>
+					<OptanteSimplesNacional>2</OptanteSimplesNacional>
+					<IncentivadorCultural>2</IncentivadorCultural>
+					<Status>1</Status>
+					<Servico>
+						<Valores>
+							<ValorServicos>20160.00</ValorServicos>
+							<ValorDeducoes>0.00</ValorDeducoes>
+							<ValorPis>131.04</ValorPis>
+							<ValorCofins>604.80</ValorCofins>
+							<ValorInss>0.00</ValorInss>
+							<ValorIr>0.00</ValorIr>
+							<ValorCsll>0.00</ValorCsll>
+							<IssRetido>2</IssRetido>
+							<ValorIss>0.00</ValorIss>
+							<OutrasRetencoes>0.00</OutrasRetencoes>
+							<BaseCalculo>20160.00</BaseCalculo>
+							<Aliquota>0.000</Aliquota>
+							<ValorLiquidoNfse>20160.00</ValorLiquidoNfse>
+							<ValorIssRetido>0.00</ValorIssRetido>
+							<DescontoCondicionado>0.00</DescontoCondicionado>
+							<DescontoIncondicionado>0.00</DescontoIncondicionado>
+						</Valores>
+						<ItemListaServico>07.02</ItemListaServico>
+						<CodigoTributacaoMunicipio>2330301</CodigoTributacaoMunicipio>
+						<CodigoCnae>2330301</CodigoCnae>
+						<Discriminacao>CRTO. USINADO BOMB. 20MPA ABAT.22+/-3 (M  48,000)</Discriminacao>
+						<CodigoMunicipio>4115804</CodigoMunicipio>
+					</Servico>
+					<Prestador>
+						<Cnpj>81097503000129</Cnpj>
+						<InscricaoMunicipal>1148</InscricaoMunicipal>
+					</Prestador>
+					<Tomador>
+						<IdentificacaoTomador>
+							<CpfCnpj>
+								<Cnpj>78101359000142</Cnpj>
+							</CpfCnpj>
+						</IdentificacaoTomador>
+						<RazaoSocial>CONSTRUTORA ZANELLA LTDA</RazaoSocial>
+						<Endereco>
+							<Endereco>RUA SERGIPE</Endereco>
+							<Numero>1766</Numero>
+							<Bairro>CENTRO</Bairro>
+							<CodigoMunicipio>4115804</CodigoMunicipio>
+							<Uf>PR</Uf>
+							<Cep>85884000</Cep>
+						</Endereco>
+						<Contato>
+							<Telefone>32641526</Telefone>
+							<Email>zanella@construtorazanella.com.br</Email>
+						</Contato>
+					</Tomador>
+				</InfRps>
+			</Rps>
+		</ListaRps>
+	</LoteRps>
+</EnviarLoteRpsEnvio>

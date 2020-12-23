@@ -1,0 +1,15 @@
+{
+    "name": "darcio/nfs-rolandia",
+    "description": "implementacao da nfs do municipio de rolandia",
+    "type": "project",
+    "authors": [
+        {
+            "name": "darciosoares",
+            "email": "darciosoares28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "robrichards/xmlseclibs": "9999999-dev"
+    }
+}
